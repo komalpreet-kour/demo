@@ -1,3 +1,3 @@
 # demo
 First Git Repository.
-Author - Komalpreet Kour
+Author - Komalpreet Kour.
